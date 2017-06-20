@@ -1,0 +1,19 @@
+{
+  "name": "scratch-2-stack",
+  "version": "0.0.1",
+  "description": "An awesome resource for javascript and frontend learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaminichhabra/Scratch-2-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaminichhabra/Scratch-2-Stack/issues"
+  },
+  "homepage": "https://github.com/yaminichhabra/Scratch-2-Stack#readme"
+}
